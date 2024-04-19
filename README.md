@@ -1,5 +1,5 @@
-# Spring Boot Azure Cosmos
+# PostgreSQL Learning
 
-## Azure Cosmos
+## PostgreSQL
 
-### NoSQL
+### Intagram
